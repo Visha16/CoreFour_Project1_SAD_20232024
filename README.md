@@ -5,6 +5,8 @@ MEMBERS: <br>
   3)MERVYN BEE ZHENG CHENG <br>
   4)VIBHUSHA A/P SAMPASIVA RAO <br>
 
+PROTOTYPE DEMO : https://youtu.be/IFtggHBp_vU <br>
+
 LECTURER:Ms Rozilawati<br>
 
 [Kanban Board](https://github.com/users/Sumiong/projects/1/views/1)
